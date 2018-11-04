@@ -1,0 +1,5 @@
+numpy
+pandas
+tabula
+pdfplumber
+elasticsearch
